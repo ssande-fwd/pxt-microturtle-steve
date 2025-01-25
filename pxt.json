@@ -1,5 +1,5 @@
 {
-    "name": "microturtle",
+    "name": "steves-microturtle",
     "version": "0.0.12",
     "dependencies": {
         "core": "*"
