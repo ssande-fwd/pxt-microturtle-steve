@@ -1,0 +1,13 @@
+{
+  "name": "steves-inner-microturtle",
+  "version": "0.0.15",
+  "dependencies": {
+    "core": "*"
+  },
+  "description": "A LOGO-like inner turtle library",
+  "files": [
+  ],
+  "testFiles": [
+  ],
+  "public": true
+}
