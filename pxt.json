@@ -1,6 +1,6 @@
 {
     "name": "steves-microturtle",
-    "version": "0.0.34",
+    "version": "0.0.35",
     "dependencies": {
         "core": "*",
         "test": "github:ssande-fwd/pxt-microturtle-steve/test"
