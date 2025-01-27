@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - '.github/workflows/**'
 
 concurrency:
   group: ${{ github.head_ref || github.run_id }}
