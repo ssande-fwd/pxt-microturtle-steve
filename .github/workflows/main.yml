@@ -22,9 +22,9 @@ jobs:
       - run: |
          npm install -g makecode
 
-      - run: 'git config --global user.email "rweir@forwardedu.com"'
+      - run: 'git config --global user.email "ssande@forwardedu.com"'
 
-      - run: 'git config --global user.name "ross-inksmith"'
+      - run: 'git config --global user.name "ssande-fwd"'
 
       - uses: actions/checkout@v4
         with:
