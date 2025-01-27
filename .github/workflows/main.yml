@@ -2,9 +2,6 @@
 name: Auto-bump
 
 on:
-  pull_request:
-    types:
-      - closed
   push:
     branches:
       - master
