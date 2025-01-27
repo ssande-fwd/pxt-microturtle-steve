@@ -2,7 +2,8 @@
     "name": "steves-microturtle",
     "version": "0.0.21",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "test": "github:ssande-fwd/pxt-microturtle-steve/test"
     },
     "description": "A LOGO-like turtle library",
     "files": [
