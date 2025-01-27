@@ -1,6 +1,6 @@
 # micro turtle [![Build Status](https://travis-ci.org/Microsoft/pxt-microturtle.svg?branch=master)](https://travis-ci.org/Microsoft/pxt-microturtle)
 
-A LOGO-like turtle library for the micro:bit in MakeCode.
+A LOGO-like turtle library for the micro:bit in MakeCode. 
 
 ```blocks
 turtle.setPosition(0, 0)
